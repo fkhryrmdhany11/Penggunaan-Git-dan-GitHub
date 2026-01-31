@@ -1,1 +1,1 @@
-print('Nama saya Fakhry Ramdhany')
+print('Umur saya 19 Tahun')
